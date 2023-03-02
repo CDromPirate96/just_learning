@@ -1,2 +1,1 @@
-# 100_Days_Of_Code
-Udemy Course
+Just learning how to code.
