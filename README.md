@@ -1,2 +1,2 @@
-# just_learning
-Just learning how to code.
+# 100_Days_Of_Code
+Udemy Course
